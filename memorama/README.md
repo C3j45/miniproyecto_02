@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Capturas del memorama
+
+Splash Screen
+![Alt text](image.png)
+
+Home
+![Alt text](image-1.png)
+
+8 pares
+![Alt text](image-2.png)
+![Alt text](image-4.png)
+
+10 pares
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+
+12 pares
+
+![Alt text](image-7.png)
+![Alt text](image-8.png)
